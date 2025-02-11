@@ -44,3 +44,14 @@
 
 - **Learning from Mistakes: Self-correct Adversarial Training for Chinese Unnatural Text Correction**  
   Jinan University,AAAI,2025 [[Paper]](https://arxiv.org/abs/2412.17279)
+
+  - **A Text Editing Approach to Joint Japanese Word Segmentation, POS Tagging, and Lexical Normalization**  
+    National Institute of Information and Communications Technology,EMNLP-W-NUT,2021 [[Paper]](https://aclanthology.org/2021.wnut-1.9.pdf)
+
+### Type: Resource
+
+- **MaintNorm: A corpus and benchmark model for lexical normalisation and masking of industrial maintenance short text**  
+  The University of Western Australia,ACL W-NUT,2024 [[Paper]](https://aclanthology.org/2024.wnut-1.0.pdf)
+
+- **ViLexNorm: A Lexical Normalization Corpus for Vietnamese Social Media Text**  
+  UniversityofInformationTechnology,EACL,2024 [[Paper]](https://aclanthology.org/2024.eacl-long.85.pdf)
